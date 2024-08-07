@@ -8,7 +8,7 @@ spec:
   selector:
     matchLabels:
       env: prod
-   template:
+  template:
     metadata:
       name: "webpod4"
       labels:
